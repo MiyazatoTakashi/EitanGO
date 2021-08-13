@@ -4,7 +4,7 @@
 	align-items:center;
 }
 #ja,#entry{
-	font-size:35px;
+	font-size:60px;
 }
 
 /* #img{
@@ -13,14 +13,14 @@
 	margin:20px;
 } */
 #btn{
-	font-size:30px;
+	font-size:50px;
 	cursor:pointer;
     margin:20px;
 }
 #result{
 	transition:1s;
 	opacity:1;
-    font-size:30px;
+    font-size:60px;
 }
 #result.fade{
 	opacity:0.5;	
