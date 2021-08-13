@@ -1,6 +1,7 @@
 'use strict';
 window.onload=()=>{
 	const questions=[
+		['ひつじ','sheep'],
 		['ぞう','elephant'],
 		['しろくま','polarbear'],
 		['くじら','whale'],
